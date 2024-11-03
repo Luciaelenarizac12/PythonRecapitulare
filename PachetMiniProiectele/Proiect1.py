@@ -1,0 +1,1 @@
+# sursa: https://www.youtube.com/watch?v=SbpQJL49A_Y
