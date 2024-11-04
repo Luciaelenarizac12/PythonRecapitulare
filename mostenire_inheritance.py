@@ -34,6 +34,8 @@ vulpe=Vulpe()
 vulpe.doarme()
 vulpe.scoate_sunete()
 
+a=Animal('iepurele')
+a.merge()
+a.doarme()
 
-#  sursa : https://www.youtube.com/watch?v=ZM7hf2jcY5Y&list=PL4KX3oEgJcff0meUNYRpIdSpIlKcO93I7&index=21
-# sursa 2: https://www.youtube.com/watch?v=rLyYb7BFgQI
+
