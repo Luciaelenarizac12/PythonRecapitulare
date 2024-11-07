@@ -7,6 +7,8 @@ Avantajele unei clase abstracte:
 
 abc -> abstract base classes
 ABC -> abstract base class (ABC este o clasă de bază din modulul abc, pe care o folosim ca superclasă pentru a crea o clasă abstractă. Atunci când o clasă moștenește ABC, aceasta devine o clasă abstractă și nu poate fi instanțiată direct.)
+
+@abstractmethod -> este un decorator
 """
 from abc import ABC, abstractmethod
 class AgentieTurism (ABC):
