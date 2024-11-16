@@ -1,6 +1,10 @@
 """nested class -> a class defined within another class.
 class Outer:
     class Inner:
+
+    Allows you to logically group classes that are closely related.
+    Encapsulate private details that aren't relevant outside of the outer class.
+    Keeps the namespace clean, reduce the possibility of naming conflicts
 """
 
 class Work:
