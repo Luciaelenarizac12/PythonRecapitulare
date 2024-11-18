@@ -3,7 +3,6 @@
 Sunt 2 modalitati de a implementa polimorfismul:
 1) prin mostenire -> an object could be treated of the same type as a parent class
 
-2) Duck typing -> object must have necessary attributes/methods
 """
 
 from abc import ABC, abstractmethod
